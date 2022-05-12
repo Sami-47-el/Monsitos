@@ -1,0 +1,115 @@
+@font-face {
+    font-family:'Macondo', cursive; 
+   src: url("https://fonts.googleapis.com");
+   font-weight: 400;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 90%; 
+    width: 60%;
+    background-image: url('https://dolys.fr/wp-content/uploads/2018/02/particules.gif');
+     height: 100px;
+    width: 100%;
+    border-radius: 10px;
+}
+td{
+    border: 1px solid #09fa96;
+}
+
+tfoot {
+    background-color: #f3eded;
+    color: #fff;
+}
+table{
+    color:#ffffff ;
+    font-size:15px;
+     border-color: #09fa96;
+     border-style: groove;
+     border-radius:20px ;
+     text-align:center ;
+     width: 1300px;
+     height:300px;
+     margin-top : 10px; 
+     }
+     th{
+         color: #e2fa0e;
+       }
+footer{
+    height: 80px;
+    background-color: #287265;
+    
+}      
+a{
+    font-size:20px;
+} 
+p{
+    color: #f4f7f6;
+}
+.header{
+    background-color: #287265;
+    height: 70px;
+    margin: 10px;
+}
+nav a{
+    display: inline;
+    background: #db6363;
+    width: 300px;
+    height: 50px;
+    text-decoration:none;
+    border-radius: 20px;
+}
+nav ul li{
+    list-style-type:none;
+    display:inline-block;
+    padding: 20px;
+}
+ul li a{
+    color: #fff;
+    letter-spacing: 0.2rem;
+}
+ul li a:hover{
+    color:#ffd358;
+    text-decoration: underline;
+}
+.Acceuil li{
+    float:  left;
+    padding: 35px;
+}
+.Acceuil li a{
+    text-decoration: none;
+}
+form{
+    padding: 55px;
+    text-align: right;
+}
+input[type="search"]{
+    font-size: 17px;
+}
+h1{
+    color: red;
+    font-size: 30px;
+    background:#287265 ;
+}
+h2{
+    color: rgb(53, 196, 53);
+    font-size: 25px;
+}
+img{
+    border: #f8f5ef;
+    width: 250px;
+    height: 400px; 
+}
+caption{
+    color: #09fa96;
+    font-size: large;
+}
+img{
+    width: 1400px; ;
+    margin: auto;
+}
+
+    
+    
+
+
